@@ -12,9 +12,9 @@ and run the env by.
 in linux.
 source (name of your env)/bin/activate
 in window.
-# In cmd.exe
+In cmd.exe
 venv\Scripts\activate.bat
-# In PowerShell
+In PowerShell
 venv\Scripts\Activate.ps1
 
  3-There must have django. If it is not available, write the following.
