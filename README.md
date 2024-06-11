@@ -7,7 +7,8 @@ When you read the code, you may be surprised that the form was not sent to the w
  1-you must have a copy of Python. If you do not have it, you can get it from
 https://www.python.org/downloads/
 
-2-Then it is preferable that there be venv If it is not available, write the following in a terminal/cmd.
+2-Then it is preferable that there be venv If it is not available, write the following in a terminal / cmd.
+
 python3 -m venv (name of your env) 
 and run the env by.
 in linux.
