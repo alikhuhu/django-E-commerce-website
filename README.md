@@ -3,7 +3,8 @@ A simple promotional website that you can use as the basis for a website and add
 
 When you read the code, you may be surprised that the form was not sent to the website interface, but rather the general style was manipulated, but this was done to facilitate the process of creating a ready-made website interface.  It still needs development. It will be updated in the following weeks
 
-1-To run the site locally on your device, you must have a copy of Python. If you do not have it, you can get it from
+# To run the site locally on your device,
+ 1-you must have a copy of Python. If you do not have it, you can get it from
 https://www.python.org/downloads/
 
 2-Then it is preferable that there be venv If it is not available, write the following in a terminal/cmd.
